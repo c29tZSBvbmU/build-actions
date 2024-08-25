@@ -38,6 +38,7 @@ on:
           - 'xiaomi_redmi-router-ax6s'
           - 'xiaoyu_xy-c5'
           - 'xr30'
+          - 'rax3000m'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
